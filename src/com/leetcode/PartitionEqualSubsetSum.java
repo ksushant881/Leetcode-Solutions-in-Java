@@ -1,4 +1,4 @@
-package com.company;
+package com.leetcode;
 
 public class PartitionEqualSubsetSum {
     public static void main(String[] args) {
