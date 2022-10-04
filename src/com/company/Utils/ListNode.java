@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Utils;
 
 public class ListNode {
     int val;
